@@ -7,25 +7,32 @@ Hello, world! 👋 I'm Pravin Kumar, a passionate self-thought software develope
 I've curated a collection of projects and repositories that showcase my skills, interests, and contributions to the open-source community. Whether you're a fellow developer, an enthusiast, or just curious, there's something here for everyone:
 
 ### Projects
+
 🏦 **Bank Management System** - A complete simple full-stack Java application simulating a Bank Management System(BMS) using JDBC, JCalendar.JAR, JFrames, and MySQLConnector.JAR.
 
 🌐 **Personal Website** - My personal website using HTML and CSS hosted on Github Pages.
 
 ### Contributions
+
 🤝 **Open Source Contributions** - I'm a strong believer in the open-source community. Check out my contributions to some fantastic projects, and feel free to collaborate.
 
 🛠️ **Forks and Improvements** - Show your dedication to improving existing projects by highlighting notable forks and enhancements you've made.
 
 ### Skills
-💼 **Technologies** - Java • Spring Boot • HTML • CSS • JavaScript • Node.JS • C# • ASP.NET • Docker • Kubernetes • Terraform • Jenkins • Git • Github • PostgreSQL • MySQL • MongoDB • Ubuntu[Linux]
 
-🧰 **Tools** - IntlliJ • VSCode • Notion • Obsidian • Apple Notes • Postman.
+**Languages & Frameworks** - Java • Spring Boot • HTML • CSS • JavaScript • Node.JS • C# • ASP.NET • C++ • SQL • NOSQL
+
+**DevOps** - Docker • Kubernetes • Terraform • Jenkins • AWS • Git • Github • Ubuntu[Linux]
+
+**Databases** - PostgreSQL • MySQL • MongoDB
+
+**Tools** - VSCode • IntelliJ • Visual Studio • VIM
 
 ## Get in Touch
 Let's connect and collaborate! Feel free to reach out through:
 
 📧 **Email**: [pravinkumarone@icloud.com](mailto:pravinkumarone@icloud.com)
-🐦 **Twitter**: [@pravinkumarone](https://twitter.com/pravinkumarone)
+ 𝕏 : [@pravinkumarone](https://x.com/pravinkumarone)
 💼 **Linkedin**: [/in/pravinkumarone](https://www.linkedin.com/in/pravinkumarone/)
 
 ## Support My Work
