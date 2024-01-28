@@ -4,13 +4,13 @@
 Hello, world! 👋 I'm Pravin Kumar, a passionate self-thought DevOps Engineer with a love for solving complex problems and a burning desire to learn and innovate. I believe in the power of technology to make the world a better place, and I'm here to share my journey with you through this GitHub profile.
 
 ## Skills
-**Languages & Frameworks** - `Java` • `Spring Boot` • `HTML` • `CSS` • `JavaScript` • `Node.JS` • `C#` • `ASP.NET` • `C++` • `SQL` • `NOSQL`
+**Languages & Frameworks** - `Java` • `Spring Boot` • `HTML` • `CSS` • `JavaScript` • `Node.JS` • `C#` • `ASP.NET` • `C` • `C++` • `SQL` • `NOSQL`
 
-**DevOps** - `Docker` • `Kubernetes` • `Terraform` • `Jenkins` • `AWS` • `Git` • `Github` • `Ubuntu[Linux]`
+**DevOps** - `Docker` • `Kubernetes` • `Terraform` • `Jenkins` • `AWS` • `Git` • `GitHub` • `GitHub Actions` • `Ubuntu[Linux]`
 
 **Databases** - `PostgreSQL` • `MySQL` • `MongoDB`
 
-**IDE/Editor** - `VSCode` • `Emacs` • `VIM` 
+**IDE/Editor** - `NeoVIM` • `VSCode` 
 
 ## Get in Touch
  𝕏 : [@pravinkumarone](https://x.com/pravinkumarone) | **Linkedin**: [/in/pravinkumarone](https://www.linkedin.com/in/pravinkumarone/) | **Website**: [pravinkumar.one](https://www.pravinkumar.one)
