@@ -13,7 +13,7 @@ Hello, world! 👋 I'm Pravin Kumar, a passionate self-thought DevOps Engineer w
 **IDE/Editor** - `NeoVIM` • `VSCode` 
 
 ## Get in Touch
- 𝕏 : [@pravinkumarone](https://x.com/pravinkumarone) | **Linkedin**: [/in/pravinkumarone](https://www.linkedin.com/in/pravinkumarone/) | **Website**: [pravinkumar.one](https://www.pravinkumar.one)
+ 𝕏 : [@pk0dev](https://x.com/pk0dev) | **Linkedin**: [/in/pk0dev](https://www.linkedin.com/in/pk0dev/) | **Website**: [pk0.dev](https://www.pk0.dev)
 
 <!--
 **pravinkumarone/pravinkumarone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
