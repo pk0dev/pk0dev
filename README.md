@@ -4,13 +4,19 @@
 Hello, world! 👋 I'm Pravin Kumar, a passionate self-thought DevOps Engineer with a love for solving complex problems and a burning desire to learn and innovate. I believe in the power of technology to make the world a better place, and I'm here to share my journey with you through this GitHub profile.
 
 ## Skills
-**Languages & Frameworks** - `Java` • `Spring Boot` • `HTML` • `CSS` • `JavaScript` • `Node.JS` • `C#` • `ASP.NET` • `C` • `C++` • `SQL` • `NOSQL`
+**DevOps** - 
+ 
+   **AWS** - `EC2` • `ECS` • `ECR` • `S3` • `CloudFront` • `IAM` • `VPC` • `API Gateway` • `Lambda` • `Secret Manager` • `SNS` • `SQS` • `CloudWatch` • `Certificate Manager` 
+ 
+   `Docker` • `Kubernetes` • `Terraform` • `Ansible` • `Jenkins` • `CloudFlare` • `Git` • `GitHub` • `GitHub Actions` • `Ubuntu[Linux]` • `Groovy`
 
-**DevOps** - `Docker` • `Kubernetes` • `Terraform` • `Jenkins` • `AWS` • `Git` • `GitHub` • `GitHub Actions` • `Ubuntu[Linux]`
+**Web Development** - `HTML` • `CSS` • `JavaScript` • `Node.JS` • `Express.JS` • `REST` • `C#` • `ASP.NET`
+
+**Languages** - `C` • `Java` • `BASH` • `Python` • `Mojo`
 
 **Databases** - `PostgreSQL` • `MySQL` • `MongoDB`
 
-**IDE/Editor** - `NeoVIM` • `VSCode` 
+**Editor/Tools** - `NeoVIM` • `Tmux` 
 
 ## Get in Touch
  𝕏 : [@pk0dev](https://x.com/pk0dev) | **Linkedin**: [/in/pk0dev](https://www.linkedin.com/in/pk0dev/) | **Website**: [pk0.dev](https://www.pk0.dev)
