@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 🚀
 
 ## About Me
-Hello, world! 👋 I'm Pravin Kumar, a passionate self-thought DevOps Engineer with a love for solving complex problems and a burning desire to learn and innovate. I believe in the power of technology to make the world a better place, and I'm here to share my journey with you through this GitHub profile.
+Hello, world! 👋 I'm Pravin Kumar, a passionate self-thought DevOps Engineer with a love for solving complex problems and a burning desire to learn and innovate.
 
 ## Skills
 **DevOps** - 
