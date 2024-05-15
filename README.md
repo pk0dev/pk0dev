@@ -6,7 +6,7 @@ Hello, world! 👋 I'm Pravin Kumar, a passionate self-taught DevOps Engineer wi
 ## Skills
 **DevOps** - 
  
-   **AWS** - `EC2` • `ECS` • `ECR` • `S3` • `CloudFront` • `IAM` • `VPC` • `API Gateway` • `Lambda` • `Secret Manager` • `SNS` • `SQS` • `CloudWatch` • `Certificate Manager` 
+   **AWS** - `EC2` • `ECS` • `ECR` • `S3` • `CloudFront` • `IAM` • `VPC` • `API Gateway` • `Lambda` • `Secret Manager` • `SNS` • `SQS` • `SES` • `CloudWatch` • `Certificate Manager` 
  
    `Docker` • `Kubernetes` • `Terraform` • `Ansible` • `Jenkins` • `CloudFlare` • `Git` • `GitHub` • `GitHub Actions` • `Ubuntu[Linux]` • `Groovy`
 
