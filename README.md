@@ -18,9 +18,6 @@ Hello, world! 👋 I'm Pravin Kumar, a passionate self-taught DevOps Engineer wi
 
 **Editor/Tools** - `NeoVIM` • `Tmux` 
 
-## Get in Touch
- 𝕏 : [@pk0dev](https://x.com/pk0dev) | **Linkedin**: [/in/pk0dev](https://www.linkedin.com/in/pk0dev/) | **Website**: [pk0.dev](https://www.pk0.dev)
-
 <!--
 **pravinkumarone/pravinkumarone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
